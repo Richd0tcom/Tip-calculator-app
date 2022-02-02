@@ -206,6 +206,7 @@ function resset(){
 
     billNum.value = 0;
     peopleNum.value = 1;
+    customTip.value = '';
     tipAmnt.innerHTML = `$${(0.0).toFixed(2)}`;
     totalAmnt.innerHTML = `$${(0.0).toFixed(2)}`;
     
