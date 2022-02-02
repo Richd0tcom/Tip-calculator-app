@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-mobile-first-workflow-using-tailwindcss-grid-and-flexbox-shyeQoU3s)
+- Live Site URL: [Check it out here](https://richd0tcom.github.io/Tip-calculator-app/)
 
 ## My process
 
