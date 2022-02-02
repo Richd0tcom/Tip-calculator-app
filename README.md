@@ -47,7 +47,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [TailwindCSS]() - CSS Framework
+- [TailwindCSS](https://tailwindcss.com/) - CSS Framework
 
 
 
@@ -64,16 +64,16 @@ Still struggling with ReGex. Will try to design for more screen widths.
 
 ### Useful resources
 
-- [Stack Overflow]() - 
-- [CSS tricks]() - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Stack Overflow](https://stackoverflow.com/) - Stack Overflow
+- [TailwindCSS](https://tailwindcss.com/) - Tailwind CSS Documentation
+
 
 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@c0nsoledotlog](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Richd0tcom](https://www.frontendmentor.io/profile/Richd0tcom)
+- Twitter - [@c0nsoledotlog](https://twitter.com/c0nsoledotlog)
 
 
 ## Acknowledgments
