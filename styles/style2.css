@@ -39,7 +39,7 @@ input::-webkit-outer-spin-button{
 input[type=number]{
     outline: none;
     -moz-appearance: textfield;
-    background-color: #f4fafa;
+    
 }
   
 .err{
