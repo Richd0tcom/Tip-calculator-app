@@ -14,8 +14,8 @@ reset.disabled = true;
 
 
 
-billNum.value = 0;
-peopleNum.value = 1;
+billNum.value = '';
+peopleNum.value = '';
 tipAmnt.innerHTML = `$${(0.0).toFixed(2)}`;
 totalAmnt.innerHTML = `$${(0.0).toFixed(2)}`;
 
