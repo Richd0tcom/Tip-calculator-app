@@ -16,7 +16,7 @@
 }
 
 .try {
-    background: url(./images/icon-person.svg);
+    background: url(../images/icon-person.svg);
     background-repeat: no-repeat;
     background-position-x: 0.5em;
     background-position-y: 0.5em;
@@ -24,7 +24,7 @@
 }
 
 .aye {
-    background: url(./images/icon-dollar.svg);
+    background: url(../images/icon-dollar.svg);
     background-repeat: no-repeat;
     background-position-x: 0.5em;
     background-position-y: 0.5em;
