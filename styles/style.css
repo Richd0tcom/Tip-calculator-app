@@ -700,6 +700,21 @@ Ensure the default browser behavior of the `hidden` attribute.
   color: rgb(79 102 105 / var(--tw-placeholder-opacity));
 }
 
+.placeholder-\[\#4d6669\]::-moz-placeholder {
+  --tw-placeholder-opacity: 1;
+  color: rgb(77 102 105 / var(--tw-placeholder-opacity));
+}
+
+.placeholder-\[\#4d6669\]:-ms-input-placeholder {
+  --tw-placeholder-opacity: 1;
+  color: rgb(77 102 105 / var(--tw-placeholder-opacity));
+}
+
+.placeholder-\[\#4d6669\]::placeholder {
+  --tw-placeholder-opacity: 1;
+  color: rgb(77 102 105 / var(--tw-placeholder-opacity));
+}
+
 .outline {
   outline-style: solid;
 }
