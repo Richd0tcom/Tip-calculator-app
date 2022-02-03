@@ -204,8 +204,8 @@ reset.addEventListener('mousedown', (e)=>{
 
 function resset(){
 
-    billNum.value = 0;
-    peopleNum.value = 1;
+    billNum.value = '';
+    peopleNum.value = '';
     customTip.value = '';
     tipAmnt.innerHTML = `$${(0.0).toFixed(2)}`;
     totalAmnt.innerHTML = `$${(0.0).toFixed(2)}`;
